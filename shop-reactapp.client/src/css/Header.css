@@ -1,0 +1,123 @@
+.btn-dropdown {
+  width: 150px;
+  margin: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.btn-login {
+  width: 100px;
+  margin: 10px;
+  margin-left: 30px;
+}
+.btn-sign-up {
+  width: 100px;
+  margin: 10px;
+}
+.bell {
+  margin: 10px;
+}
+.cart {
+  margin: 10px;
+}
+.a {
+  margin-top: 5px;
+  margin-left: 20px;
+}
+.btn-outline-info {
+  width: 100px;
+}
+.btn-select {
+  max-width: 100px;
+}
+
+.search-bar {
+  margin-top: 15px;
+  max-width: 800px;
+}
+.search-btn {
+  max-width: 50px;
+}
+.logo {
+  max-width: 65px;
+  max-height: 40px;
+}
+li:hover {
+  cursor: pointer;
+}
+@media (max-width: 360px) {
+  .search-bar {
+    margin-top: 15px;
+    max-width: 200px;
+  }
+  .btn-select {
+    max-width: 70px;
+  }
+  .search-btn {
+    max-width: 40px;
+  }
+  .logo {
+    max-width: 45px;
+    max-height: 20px;
+  }
+}
+@media (max-width: 499px) and (min-width: 361px) {
+  .search-bar {
+    margin-top: 15px;
+    max-width: 200px;
+  }
+  .btn-select {
+    max-width: 70px;
+  }
+  .search-btn {
+    max-width: 40px;
+  }
+}
+@media (max-width: 606px) and (min-width: 500px) {
+  .search-bar {
+    margin-top: 15px;
+    max-width: 300px;
+  }
+  .btn-select {
+    max-width: 80px;
+  }
+}
+@media (max-width: 709px) and (min-width: 607px) {
+  .search-bar {
+    margin-top: 15px;
+    max-width: 400px;
+  }
+  .btn-select {
+    max-width: 80px;
+  }
+}
+@media (max-width: 804px) and (min-width: 709px) {
+  .search-bar {
+    margin-top: 15px;
+    max-width: 500px;
+  }
+  .btn-select {
+    max-width: 80px;
+  }
+}
+@media (max-width: 924px) and (min-width: 805px) {
+  .search-bar {
+    margin-top: 15px;
+    max-width: 600px;
+  }
+  .btn-select {
+    max-width: 80px;
+  }
+}
+@media (max-width: 1010px) and (min-width: 925px) {
+  .search-bar {
+    margin-top: 15px;
+    max-width: 700px;
+  }
+  .btn-select {
+    max-width: 90px;
+  }
+}
+
+.input-sm {
+  max-width: 700px;
+}

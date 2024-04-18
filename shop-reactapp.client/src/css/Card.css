@@ -1,0 +1,20 @@
+#card {
+  display: inline-flex;
+  width: 280px;
+  height: 410px;
+  transition: all 0.4s;
+}
+.card:hover {
+  transform: scale(1.06);
+}
+.pic {
+  margin: auto;
+  padding: auto;
+  width: 280px;
+  height: 250px;
+  border-radius: 5px;
+}
+.text {
+  text-align: start;
+  width: 100px;
+}
